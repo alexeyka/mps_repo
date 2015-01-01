@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:96f49409-4a19-40b6-8119-c0115132f6dd(com.mbeddr.ext.__spreferences.CodeReviewPreferences)">
+<model ref="r:6657148c-a59a-43cb-9987-d3942ddfaa34(com.mbeddr.ext.__spreferences.CodeReviewPreferences)">
   <persistence version="9" />
   <languages />
   <imports />
@@ -8,6 +8,6 @@
       <concept id="293752265167076767" name="com.mbeddr.core.base.structure.CodeReviewConfig" flags="ng" index="3Xb6eZ" />
     </language>
   </registry>
-  <node concept="3Xb6eZ" id="Kov5PvP$_d" />
+  <node concept="3Xb6eZ" id="3vo8LRSQpgT" />
 </model>
 
